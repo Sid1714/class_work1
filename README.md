@@ -1,7 +1,11 @@
 # class_work1
+<svg>
+<foreignObject>
+    <div>
         <ul>
-            <li>This is a list</li>
+            <li>text</li>
         </ul>
         <!-- Other embed HTML element/text into SVG -->
     </div>
-
+</foreignObject>
+</svg>
